@@ -1,0 +1,13 @@
+@relation tc
+
+@attribute dok string
+@attribute kat {kirola kultura politika}
+
+@data
+'Euskaltel Euskadi txirrindulari prentsaurreko' kirola
+'liburu aurkeztu koldo mitxelena' kultura
+'liburu berri mitxelena idazle' kultura
+'liburu idazle mitxelena liburu' kultura
+'baloia Euskadi partida' kirola
+'baloia partida' kirola
+'lehendakaria, hauteskundeak' politika

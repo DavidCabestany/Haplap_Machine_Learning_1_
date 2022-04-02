@@ -1,0 +1,70 @@
+@relation spambase-weka.filters.supervised.instance.Resample-B0.0-S1-Z2.0-weka.filters.supervised.instance.Resample-B0.0-S1-Z10.0
+
+@attribute word_freq_make numeric
+@attribute word_freq_address numeric
+@attribute word_freq_all numeric
+@attribute word_freq_3d numeric
+@attribute word_freq_our numeric
+@attribute word_freq_over numeric
+@attribute word_freq_remove numeric
+@attribute word_freq_internet numeric
+@attribute word_freq_order numeric
+@attribute word_freq_mail numeric
+@attribute word_freq_receive numeric
+@attribute word_freq_will numeric
+@attribute word_freq_people numeric
+@attribute word_freq_report numeric
+@attribute word_freq_addresses numeric
+@attribute word_freq_free numeric
+@attribute word_freq_business numeric
+@attribute word_freq_email numeric
+@attribute word_freq_you numeric
+@attribute word_freq_credit numeric
+@attribute word_freq_your numeric
+@attribute word_freq_font numeric
+@attribute word_freq_000 numeric
+@attribute word_freq_money numeric
+@attribute word_freq_hp numeric
+@attribute word_freq_hpl numeric
+@attribute word_freq_george numeric
+@attribute word_freq_650 numeric
+@attribute word_freq_lab numeric
+@attribute word_freq_labs numeric
+@attribute word_freq_telnet numeric
+@attribute word_freq_857 numeric
+@attribute word_freq_data numeric
+@attribute word_freq_415 numeric
+@attribute word_freq_85 numeric
+@attribute word_freq_technology numeric
+@attribute word_freq_1999 numeric
+@attribute word_freq_parts numeric
+@attribute word_freq_pm numeric
+@attribute word_freq_direct numeric
+@attribute word_freq_cs numeric
+@attribute word_freq_meeting numeric
+@attribute word_freq_original numeric
+@attribute word_freq_project numeric
+@attribute word_freq_re numeric
+@attribute word_freq_edu numeric
+@attribute word_freq_table numeric
+@attribute word_freq_conference numeric
+@attribute char_freq_; numeric
+@attribute char_freq_( numeric
+@attribute char_freq_[ numeric
+@attribute char_freq_! numeric
+@attribute char_freq_$ numeric
+@attribute char_freq_# numeric
+@attribute capital_run_length_average numeric
+@attribute capital_run_length_longest numeric
+@attribute capital_run_length_total numeric
+@attribute class {1,0}
+
+@data
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.55,0,1.11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.431,0,0,4.071,29,114,?
+0,0,0,0,0.4,0.4,0.4,0.4,0,0,0.4,0,0,0,0,0.4,0,0,4,0,2,0,0,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.121,0,0,1.979,12,95,?
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.44,0,0,0,0,0.196,0,0.392,0.196,0,5.466,22,82,?
+1.26,0,0,0,0,0,0,0,0,1.26,0,1.26,0,0,0,0,0,1.26,2.53,0,0,0,0,0,0,0,0,2.53,0,0,0,0,0,0,0,0,0,0,0,0,1.26,0,0,0,1.26,2.53,0,0,0,0,0,0,0,0,2.842,11,54,?
+0,0,0,0,0,0,0,0,0,0,0,0,0,1.19,0,0,0,1.19,1.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.38,0,0,0,0,0,0,0,0.22,0,0,0,0,2,12,34,?
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.38,0,0.38,2.31,0,0.77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.38,0,0,0,0,0.216,0,0.162,0,0.054,5.07,70,289,?
+0.09,0,0.48,0,0,0.29,0,0,0,0.09,0,0,0.19,0,0,0.09,0.19,0.58,1.35,0,0.38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.38,3.1,0,0,0.015,0.03,0,0,0.046,0,1.722,17,267,?
+0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,6,?
